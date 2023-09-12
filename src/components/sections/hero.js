@@ -67,7 +67,7 @@ const Hero = () => {
         I’m a software engineer specializing in building (and occasionally designing) exceptional
         digital experiences. Currently, I’m focused on building accessible, human-centered products
         at{' '}
-        <a href="https://v2.routerprotocol.com/" target="_blank" rel="noreferrer">
+        <a href="https://www.routerprotocol.com/" target="_blank" rel="noreferrer">
           Router Protocol
         </a>
         .

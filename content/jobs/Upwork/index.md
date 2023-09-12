@@ -7,4 +7,8 @@ range: 'December 2019 - Present'
 url: 'https://upwork.com/'
 ---
 
-- Developing/optimizing and maintaining the Dapps and Mobile apps utilizing blockchain & mobile technologies with various APIs to meet my client's needs and goals.
+- Leveraged Flutter, Dart, Firebase, Solidity and Node.js to create and enhance Dapps and Mobile apps, aligning with client objectives in blockchain and mobile technology domains.
+
+- Spearheaded the development, optimization, and upkeep of innovative Dapps and Mobile applications, expertly integrating diverse APIs to fulfill client requirements.
+
+ - Pioneered transformative solutions in blockchain and mobile tech, delivering bespoke applications that surpassed client expectations for functionality and performance.

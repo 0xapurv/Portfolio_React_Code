@@ -1,6 +1,6 @@
 ---
 date: '2022-12-21'
-title: 'Blockchain Intern'
+title: 'Blockchain Developer Intern'
 company: 'VE3'
 location: 'Remote'
 range: 'December - March 2023'

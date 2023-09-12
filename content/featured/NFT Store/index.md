@@ -12,4 +12,4 @@ tech:
   - Firebase
 ---
 
-NFT Store offers the solution to create an NFT exchange between collectors. Besides NFT Store, in the near future, NFT Store will be the next product that aims to be a solution for NFT gaming liquidity.
+Unlocking NFT Exchange for collectors today, and tomorrow, pioneering NFT Store for seamless gaming liquidity solutions.

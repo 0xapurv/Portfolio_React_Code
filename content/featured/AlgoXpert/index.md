@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'AlgoXpert'
 cover: './algoxpert.png'
 github: 'https://github.com/0xapurv/AlgoXpert'

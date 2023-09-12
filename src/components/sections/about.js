@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = [ 'Web3', 'Solidity', 'Flutter', 'Dart', 'Firebase', 'Node.js'];
+  const skills = [  'Flutter', 'Dart', 'Firebase','Web3', 'Solidity', 'Node.js'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -140,13 +140,13 @@ const About = () => {
             </p>
 
             <p>
-            I enjoy creating things that live on the internet, whether that be mobile applications or anything in between. 
+            I enjoy creating things that live on the internet, whether that be mobile applications, dapps or anything in between. 
             My goal is to always build products that provide pixel-perfect, performant experiences.
             </p>
 
             <p>
-              Persuing my B.E from <a href="https://bmsit.ac.in/">BMS Institute of Technology</a>{' '}.
-              I joined the engineering team at <a href="https://v2.routerprotocol.com/">Router Protocol</a>,{' '} where I work on a wide variety of interesting and meaningful projects on a daily basis.
+              Completed my Engineering in Information Science from <a href="https://bmsit.ac.in/">BMS Institute of Technology</a>{' '}.
+              I joined the engineering team at <a href="https://routerprotocol.com/">Router Protocol</a>,{' '} where I work on a wide variety of interesting and meaningful projects on a daily basis.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

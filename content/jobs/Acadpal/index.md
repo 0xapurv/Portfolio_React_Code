@@ -8,6 +8,6 @@ url: 'https://www.techbiz.app/'
 ---
 
 - Backed by Y-Combinator and other marquee investors, AcadPal is a platform for students to practice and learn concepts in fun ways that are engaging.
-- Built responsive UI for both Testpal and Acadpal apps using flutter.
+- Built responsive UI for both Testpal and Acadpal apps using Flutter.
 - Implemented Bloc Architecture for state management. Worked with RESTful API and connected the app with the backend. Built admin functionalities.
 
