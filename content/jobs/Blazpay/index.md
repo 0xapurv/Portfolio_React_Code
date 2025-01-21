@@ -13,4 +13,3 @@ url: 'https://defi.blazpay.com/'
 - Integrated OneSignal push notification system to deliver real-time transaction alerts, achieving a 95% successful delivery rate and improving user engagement by 35%.
 - Engineered complex crypto operations including token swaps, cross-chain bridges, and transfers, processing over $100K in transaction volume within the first quarter of internal community launch.
 - Designed and implemented a full-featured in-app browser with Web3 wallet integration capabilities, enabling seamless DApp interactions and increasing daily active users by 45%.
-- APK & Video Run Down

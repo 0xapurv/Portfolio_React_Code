@@ -12,5 +12,4 @@ url: 'https://www.routerprotocol.com/'
 - Wireframed and proposed a Proof of Concept of Flow Blockchain Integration & Made a Ping Pong Cross Chain Messaging Flutter App.
 - Used Web3Dart For connecting EVM wallet inside the Flutter app for signing & transaction approval.
 - Curated full-cycle partnerships from lead generation to closures across NFT, DeFi, GameFi and other Web3 Projects.
-- Ping Pong App
 
