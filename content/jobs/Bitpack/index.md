@@ -3,7 +3,7 @@ date: '2022-03-15'
 title: 'Web3 Intern'
 company: 'Bitpack'
 location: 'Bengaluru, KA'
-range: 'March 2022 - Present'
+range: 'April 2022 - June 2022'
 url: 'https://www.linkedin.com/company/bitpack-me/about/'
 ---
 

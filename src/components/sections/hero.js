@@ -67,8 +67,8 @@ const Hero = () => {
         I’m a software engineer specializing in building (and occasionally designing) exceptional
         digital experiences. Currently, I’m focused on building accessible, human-centered products
         at{' '}
-        <a href="https://www.routerprotocol.com/" target="_blank" rel="noreferrer">
-          Router Protocol
+        <a href="https://defi.blazpay.com/" target="_blank" rel="noreferrer">
+          Blazpay
         </a>
         .
       </p>

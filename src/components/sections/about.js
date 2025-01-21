@@ -136,7 +136,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hello! I'm Apurv, a software engineer based in Bangalore, India.
+            GM! I'm Apurv, a software engineer based in Bangalore, India.
             </p>
 
             <p>
@@ -146,7 +146,7 @@ const About = () => {
 
             <p>
               Completed my Engineering in Information Science from <a href="https://bmsit.ac.in/">BMS Institute of Technology</a>{' '}.
-              I joined the engineering team at <a href="https://routerprotocol.com/">Router Protocol</a>,{' '} where I work on a wide variety of interesting and meaningful projects on a daily basis.
+              I'm currently working for <a href="https://defi.blazpay.com/">Blazpay</a>,{' '} where I work on a wide variety of interesting and meaningful projects on a daily basis.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -161,7 +161,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
